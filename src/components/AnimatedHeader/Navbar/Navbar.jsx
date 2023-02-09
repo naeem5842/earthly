@@ -23,10 +23,10 @@ const Navbar = () =>{
         <nav className={navbar && 'active '} >
             <h2 className="logo">Earthly</h2>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact us</a></li>
+                <li><a href="https://www.earthly.ie/">Home</a></li>
+                <li><a href="https://www.earthly.ie/">About</a></li>
+                <li><a href="https://www.earthly.ie/">Services</a></li>
+                <li><a href="https://www.earthly.ie/">Contact us</a></li>
                
             </ul>
         </nav>

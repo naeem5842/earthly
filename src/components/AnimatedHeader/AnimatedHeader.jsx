@@ -12,7 +12,7 @@ const AnimatedHeader = ()=>{
             <Navbar />
             <div className="content">
                 <h1>The Sustainable Kit</h1>
-                <a href="#"> BUY NOW</a>
+                <a href="https://www.earthly.ie/"> BUY NOW</a>
             </div>
             
         </div>
