@@ -1,0 +1,40 @@
+
+
+nav{
+    width: 100%;
+    position:fixed;
+    top: 0;
+    left: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: 0.5s;
+    z-index: 999;
+}
+
+.active{
+    background-color: black;
+
+}
+
+nav .logo{
+    width: 80px;
+    font-size: 35px;
+    color: #fff;
+    cursor: pointer;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+
+}

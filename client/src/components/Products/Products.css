@@ -1,0 +1,36 @@
+.products{
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    
+    
+}
+.products h1{
+    margin-top: 50px;
+    font-size: 100px;
+    font-weight: 500;
+    position:inherit;
+    top: 0;
+    color: orange;
+}
+
+.cards{
+    width: 100%;
+    min-height: 450px;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.text{
+    width: 100%;
+    text-align: center;
+    background-color: orange;
+    font-size: 30px;
+    color: #fff;
+    padding-top: 20px;
+}
